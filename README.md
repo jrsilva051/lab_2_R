@@ -1,1 +1,3 @@
-# lab_2_R
+# Laboratório 2 do curso de Machine Learning com R.
+
+ Projeto em construção.
